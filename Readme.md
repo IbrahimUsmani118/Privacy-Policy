@@ -60,11 +60,11 @@ To exercise these rights, please contact us at:
 9. Contact Us
     
 If you have any questions or concerns about this Privacy Policy, please contact us at:
+
     •    Joel Minaya: jminaya20@gmail.com | Phone: (917) 628-1280
+    
     •    Ibrahim Usmani: onlyibrahim13@gmail.com | Phone: (732) 890-8125
 
-10. 
-
-Consent
+10. Consent
  
 By using OmatWT - SlideBar, you consent to our Privacy Policy.
