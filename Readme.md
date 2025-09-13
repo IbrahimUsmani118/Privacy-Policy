@@ -1,8 +1,4 @@
-Here’s an updated and polished version of your **Privacy Policy for OmatWT – SlideBar**, keeping it professional, compliant, and consistent with app store standards. I’ve streamlined some sections, clarified the language, and removed redundancy while preserving all key details.
-
----
-
-# Privacy Policy for OmatWT – SlideBar
+# Privacy Policy for Kitab
 
 **Effective Date: September 13, 2025**
 
