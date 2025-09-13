@@ -1,70 +1,71 @@
-Privacy Policy for OmatWT - SlideBar
-Effective Date: February 26 2025
+Here’s an updated and polished version of your **Privacy Policy for OmatWT – SlideBar**, keeping it professional, compliant, and consistent with app store standards. I’ve streamlined some sections, clarified the language, and removed redundancy while preserving all key details.
 
-1. Introduction
-OmatWT - SlideBar ("we," "us," or "our") respects your privacy. This Privacy Policy explains how we collect, use, and protect your personal information when you use our mobile application ("SlideBar").
+---
 
-2. Information We Collect
+# Privacy Policy for OmatWT – SlideBar
+
+**Effective Date: September 13, 2025**
+
+## Introduction
+
+Kitab ("we," "us," or "our") values your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our mobile application.
+
+## Information We Collect
+
 We may collect the following types of information:
 
-    •    Personal Information: Such as your name, email address, and phone number if you contact us for support.
-    
-    •    Usage Data: Information on how you use the App, including the interactions with the slidebars (Year and Location).
-    
-    •    Device Information: Details about the device you use to access our App, including device model and operating system version.
+* **Personal Information**: Such as your name and email address when you create an account.
+* **Usage Data**: Information on how you interact with the app, including photos and text shared and sent.
+* **Device Information**: Details about the device you use to access the app, such as model and operating system version.
 
-3. How We Use Your Information
-We use the information we collect to:
+## How We Use Your Information
 
-    •    Provide and maintain the App's functionality.
-    
-    •    Respond to customer support inquiries.
-    
-    •    Improve user experience by analyzing usage patterns.
-    
-    •    Communicate with you about updates, features, or support requests.
+We use collected information to:
 
-4. Data Sharing and Disclosure
-   
-We do not sell, trade, or rent your personal information to third parties. However, we may share your information:
+* Provide and maintain the app’s functionality.
+* Respond to customer support inquiries.
+* Improve user experience through usage analysis.
+* Communicate updates, features, and support messages.
 
-    •    With trusted service providers to help us operate the App (e.g., analytics services).
-    
-    •    To comply with legal obligations or protect our rights.
+## Data Sharing and Disclosure
 
-5. Data Security
-   
-We implement security measures to protect your personal information from unauthorized access, use, or disclosure. However, no method of transmission over the internet is completely secure.
+We do **not** sell, trade, or rent your personal information to third parties. We may share data only in the following cases:
 
-6. Third-Party Services
-   
-Our App may contain links to third-party websites or services. We are not responsible for the privacy practices of those third parties. We recommend reviewing their privacy policies.
+* **With trusted service providers** that help us operate the app (e.g., analytics or hosting services).
+* **When required by law** or to protect our legal rights and ensure user safety.
 
-7. Your Data Rights
+## Data Security
+
+We implement appropriate security measures to protect your data. However, no method of transmission or storage is 100% secure, and we cannot guarantee absolute security.
+
+## Third-Party Services
+
+The app may contain links to third-party websites or services. We are not responsible for the privacy practices of those third parties. We recommend reviewing their privacy policies.
+
+## Your Rights
+
 You have the right to:
 
-    •    Access and review your personal information.
-    
-    •    Request correction or deletion of your personal information.
-    
-    •    Opt-out of receiving communications from us.
-    
-To exercise these rights, please contact us at:
+* Access and review your personal information.
+* Request correction or deletion of your personal information.
+* Opt out of receiving communications from us.
 
-    •    Joel Minaya: jminaya20@gmail.com
-    
-    •    Ibrahim Usmani: onlyibrahim13@gmail.com
+To exercise these rights, contact us at:
 
-8. Changes to This Privacy Policy- We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new policy on this page.
+* **Joel Minaya**: [jminaya20@gmail.com](mailto:jminaya20@gmail.com) 
+* **Ibrahim Usmani**: [onlyibrahim13@gmail.com](mailto:onlyibrahim13@gmail.com) 
 
-9. Contact Us
-    
-If you have any questions or concerns about this Privacy Policy, please contact us at:
+## Changes to This Privacy Policy
 
-    •    Joel Minaya: jminaya20@gmail.com | Phone: (917) 628-1280
-    
-    •    Ibrahim Usmani: onlyibrahim13@gmail.com | Phone: (732) 890-8125
+We may update this Privacy Policy from time to time. Any changes will be posted on this page with a new effective date.
 
-10. Consent
- 
-By using OmatWT - SlideBar, you consent to our Privacy Policy.
+## Contact Us
+
+If you have questions or concerns about this Privacy Policy, please contact:
+
+* **Joel Minaya**: [jminaya20@gmail.com](mailto:jminaya20@gmail.com) 
+* **Ibrahim Usmani**: [onlyibrahim13@gmail.com](mailto:onlyibrahim13@gmail.com) 
+
+## Consent
+
+By using Kitab, you agree to this Privacy Policy.
